@@ -1,0 +1,11 @@
+{
+  "name": "ti4pbf",
+  "version": "1.0.0",
+  "description": "Play by forum eventually",
+  "main": "bot.js",
+  "author": "QuantumOctopus",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "underscore": "^1.10.2"
+  }
+}
