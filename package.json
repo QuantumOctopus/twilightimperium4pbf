@@ -6,6 +6,6 @@
   "author": "QuantumOctopus",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
